@@ -121,6 +121,6 @@ software testing and technology-related problem solving.
 ## Contact
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/bogdan-ovidiu-cioloca-368218372)
-- **Email:** [ciolocabogdanovidiu@gmail.com](mailto:ciolocabogdanovidiu@gmail.com)
+- **Email:** [ciolocabogdanovidiu@gmail.com](mailto:ciolocabogdanovidiu@gmail.com) or [zoritura00@gmail.com](mailto:zoritura00@gmail.com)
 - **Location:** Italy
 - **Availability:** Remote projects and professional opportunities
