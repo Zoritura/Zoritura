@@ -55,7 +55,7 @@ organisations.
 ## Zoritura
 
 <p align="center">
-  <img src="images/zoritura-preview.png"
+  <img src=""
        alt="Zoritura project preview"
        width="800">
 </p>
